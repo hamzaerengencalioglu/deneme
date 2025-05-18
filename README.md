@@ -68,4 +68,3 @@ Once a user speaks their name, the system recognizes it using Whisper, then prom
 
 ```bash
 git clone https://github.com/menesscelik/IoT.git
-cd IoT
