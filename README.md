@@ -26,7 +26,7 @@ Once a user speaks their name, the system recognizes it using Whisper, then prom
 4. System compares input name with user database  
 5. If match found, prompts user for password via keypad  
 6. If correct:  
-   - Servo rotates 180°, speaker says “Access Granted”  
+   - Servo rotates 180°
 7. If wrong:  
    - Servo does not move, speaker says “Access Denied”  
 8. Optional: User asks “What’s the weather like?”  
